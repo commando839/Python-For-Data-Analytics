@@ -1,0 +1,9 @@
+st = "This is a string with double  spaces."
+
+doubleSpaces = st.find("  ")
+
+print(doubleSpaces)
+
+#The value returned is 28 since the double spaced character is found at the 28th position in the string. 
+# If there was no value the value would be -1. 
+
