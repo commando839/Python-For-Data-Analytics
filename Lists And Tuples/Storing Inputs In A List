@@ -1,0 +1,12 @@
+a = input ("Enter the name of the first fruit: ")
+b = input ("Enter the name of the second fruit: ")
+c = input ("Enter the name of the third fruit: ")
+d = input ("Enter the name of the fourth fruit: ")
+e = input ("Enter the name of the fifth fruit: ")
+f = input ("Enter the name of the sixth fruit: ")
+g = input ("Enter the name of the seventh fruit: ")
+
+Input = [a, b, c, d, e, f, g]
+
+print (Input)
+
