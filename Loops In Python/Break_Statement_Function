@@ -1,0 +1,6 @@
+for i in range (0, 40):
+    print (i)
+    if i == 5:
+        break 
+
+# The output is only till 5.  
